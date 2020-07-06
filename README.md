@@ -1,3 +1,6 @@
+# About this fork
+* Add [Colab Notebook for inference](https://github.com/shoegazerstella/FastSpeech2/blob/master/FastSpeech2_inference.ipynb)
+
 # FastSpeech 2 - Pytorch Implementation
 
 This is a Pytorch implementation of Microsoft's text-to-speech system [**FastSpeech 2: Fast and High-Quality End-to-End Text to Speech**](https://arxiv.org/abs/2006.04558). This project is based on [xcmyz's implementation](https://github.com/xcmyz/FastSpeech) of FastSpeech. Feel free to use/modify the code. Any improvement suggestion is appreciated.
